@@ -1,2 +1,2 @@
-# R-Proj-KNN
-This project is on usage of KNN algorithm
+# ML Projects
+This project is on usage of ML algorithms in R and Python
